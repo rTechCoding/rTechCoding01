@@ -1,0 +1,8 @@
+# rTechCoding GitHub Profile README
+
+1. Create or open the GitHub repository named `rTechCoding` (the profile README repository).
+2. Upload `README.md` and the complete `assets` folder.
+3. Keep `assets/profile-banner.png` at that exact relative path.
+4. Commit the changes. GitHub will render the README on your profile.
+
+The README uses GitHub-supported Markdown/HTML, shields.io badges, and live third-party GitHub-stat widgets. GitHub does not support arbitrary CSS, so the layout is an approximation of the supplied visual reference rather than a pixel-perfect custom webpage.
